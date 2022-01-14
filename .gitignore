@@ -5,3 +5,7 @@ _site
 vendor
 .idea
 .DS_Store
+_templates
+.obsidian/cache
+.obsidian/workspaces.json
+./trash
