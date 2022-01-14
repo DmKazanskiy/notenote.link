@@ -4,8 +4,8 @@
   "autoSaveInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
-  "disablePush": true,
-  "pullBeforePush": true,
+  "disablePush": false,
+  "pullBeforePush": false,
   "disablePopups": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
@@ -14,5 +14,5 @@
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "mergeOnPull": true,
-  "treeStructure": true
+  "treeStructure": false
 }
