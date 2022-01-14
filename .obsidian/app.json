@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_notes",
+  "attachmentFolderPath": "assets/img",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showFrontmatter": true
+}

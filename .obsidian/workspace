@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "6d54ca1a2e0d7e2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9391b18af7c9005b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/wertu-01.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eff98bbddd3d4e6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf9be247e0ffc721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69b46d497ea836ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "58f73367809f3261",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ed76e838d91b6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "67ff92442e81d974",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b30263cab69503",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/wertu-01.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c85f99fcedd7b68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9391b18af7c9005b",
+  "lastOpenFiles": [
+    "_notes/wertu-01.md.md",
+    "_templates/note-template-01.md.md",
+    "_notes/note.template.md.md",
+    "_notes/Без названия.md",
+    "notes.md",
+    "_notes/wertu.md",
+    "tags.md",
+    "_notes/How-to-setup-this-site.md",
+    "_notes/how-markdown-is-rendered.md",
+    "_notes/How to use the special features.md"
+  ]
+}
