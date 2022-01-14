@@ -14,5 +14,5 @@
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "mergeOnPull": true,
-  "treeStructure": false
+  "treeStructure": true
 }
