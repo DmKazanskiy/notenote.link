@@ -7,5 +7,6 @@
   "attachmentFolderPath": "assets/img",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "promptDelete": false
 }

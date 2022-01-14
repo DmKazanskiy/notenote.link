@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/wertu-01.md.md",
+            "file": "_notes/wertu-01.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/wertu-01.md.md",
+                "file": "_notes/wertu-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,25 +90,33 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "cd67da0086ce0407",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9391b18af7c9005b",
   "lastOpenFiles": [
-    "_notes/wertu-01.md.md",
-    "_templates/note-template-01.md.md",
+    "_notes/wertu-01.md",
+    "_notes/README1ST.md",
     "_notes/note.template.md.md",
-    "_notes/Без названия.md",
-    "notes.md",
-    "_notes/wertu.md",
-    "tags.md",
+    "_notes/Obsidian integration.md",
     "_notes/How-to-setup-this-site.md",
     "_notes/how-markdown-is-rendered.md",
-    "_notes/How to use the special features.md"
+    "_notes/How to use the special features.md",
+    "_templates/note-template-01.md.md",
+    "notes.md",
+    "_notes/wertu.md"
   ]
 }

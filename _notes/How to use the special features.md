@@ -1,4 +1,9 @@
 ---
+title: My Note
+tags: tag1
+toc: true
+season: winter
+------
 title: How to use notenote.link features on your website
 season: summer
 tags: Theme
